@@ -1,0 +1,16 @@
+c:\users\amini\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\bin\ZarinpalWebGate.dll
+c:\users\amini\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\bin\ZarinpalWebGate.pdb
+c:\users\amini\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\bin\ZarinpalWebGate.xml
+c:\users\amini\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\obj\Debug\ZarinpalWebGate.Resources.resources
+c:\users\amini\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\obj\Debug\ZarinpalWebGate.vbproj.GenerateResource.Cache
+c:\users\amini\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\obj\Debug\ZarinpalWebGate.dll
+c:\users\amini\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\obj\Debug\ZarinpalWebGate.xml
+c:\users\amini\documents\visual studio 2010\Projects\WebApplication3\WebApplication3\obj\Debug\ZarinpalWebGate.pdb
+C:\Users\Amini\Documents\Visual Studio 2010\Projects\ZarinpalWebGate\ZarinpalWebGate\bin\ZarinpalWebGate.dll
+C:\Users\Amini\Documents\Visual Studio 2010\Projects\ZarinpalWebGate\ZarinpalWebGate\bin\ZarinpalWebGate.pdb
+C:\Users\Amini\Documents\Visual Studio 2010\Projects\ZarinpalWebGate\ZarinpalWebGate\bin\ZarinpalWebGate.xml
+C:\Users\Amini\Documents\Visual Studio 2010\Projects\ZarinpalWebGate\ZarinpalWebGate\obj\Debug\ZarinpalWebGate.Resources.resources
+C:\Users\Amini\Documents\Visual Studio 2010\Projects\ZarinpalWebGate\ZarinpalWebGate\obj\Debug\ZarinpalWebGate.vbproj.GenerateResource.Cache
+C:\Users\Amini\Documents\Visual Studio 2010\Projects\ZarinpalWebGate\ZarinpalWebGate\obj\Debug\ZarinpalWebGate.dll
+C:\Users\Amini\Documents\Visual Studio 2010\Projects\ZarinpalWebGate\ZarinpalWebGate\obj\Debug\ZarinpalWebGate.xml
+C:\Users\Amini\Documents\Visual Studio 2010\Projects\ZarinpalWebGate\ZarinpalWebGate\obj\Debug\ZarinpalWebGate.pdb

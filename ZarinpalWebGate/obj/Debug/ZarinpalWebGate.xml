@@ -1,0 +1,143 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ZarinpalWebGate
+</name>
+</assembly>
+<members>
+<member name="M:ZarinpalWebGate.zarinpal.PaymentGatewayImplementationService.#ctor">
+	<remarks/>
+</member><member name="E:ZarinpalWebGate.zarinpal.PaymentGatewayImplementationService.PaymentRequestCompleted">
+	<remarks/>
+</member><member name="E:ZarinpalWebGate.zarinpal.PaymentGatewayImplementationService.PaymentVerificationCompleted">
+	<remarks/>
+</member><member name="M:ZarinpalWebGate.zarinpal.PaymentGatewayImplementationService.PaymentRequest(System.String,System.Int32,System.String,System.String,System.String,System.String,System.String@)">
+	<remarks/>
+</member><member name="M:ZarinpalWebGate.zarinpal.PaymentGatewayImplementationService.PaymentRequestAsync(System.String,System.Int32,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:ZarinpalWebGate.zarinpal.PaymentGatewayImplementationService.PaymentRequestAsync(System.String,System.Int32,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:ZarinpalWebGate.zarinpal.PaymentGatewayImplementationService.PaymentVerification(System.String,System.String,System.Int32,System.Int64@)">
+	<remarks/>
+</member><member name="M:ZarinpalWebGate.zarinpal.PaymentGatewayImplementationService.PaymentVerificationAsync(System.String,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:ZarinpalWebGate.zarinpal.PaymentGatewayImplementationService.PaymentVerificationAsync(System.String,System.String,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:ZarinpalWebGate.zarinpal.PaymentGatewayImplementationService.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:ZarinpalWebGate.zarinpal.PaymentGatewayImplementationService">
+	<remarks/>
+</member><member name="T:ZarinpalWebGate.zarinpal.PaymentRequestCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ZarinpalWebGate.zarinpal.PaymentRequestCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="P:ZarinpalWebGate.zarinpal.PaymentRequestCompletedEventArgs.Authority">
+	<remarks/>
+</member><member name="T:ZarinpalWebGate.zarinpal.PaymentRequestCompletedEventArgs">
+	<remarks/>
+</member><member name="T:ZarinpalWebGate.zarinpal.PaymentVerificationCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ZarinpalWebGate.zarinpal.PaymentVerificationCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="P:ZarinpalWebGate.zarinpal.PaymentVerificationCompletedEventArgs.RefID">
+	<remarks/>
+</member><member name="T:ZarinpalWebGate.zarinpal.PaymentVerificationCompletedEventArgs">
+	<remarks/>
+</member><member name="F:ZarinpalWebGate.VerifyForm.frmVerify">
+	<summary>
+frmVerify control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ZarinpalWebGate.RequestForm.frmRequest">
+	<summary>
+frmRequest control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ZarinpalWebGate.RequestForm.txtAmount">
+	<summary>
+txtAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ZarinpalWebGate.RequestForm.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ZarinpalWebGate.RequestForm.txtDescription">
+	<summary>
+txtDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ZarinpalWebGate.RequestForm.btnOk">
+	<summary>
+btnOk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:ZarinpalWebGate.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:ZarinpalWebGate.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:ZarinpalWebGate.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:ZarinpalWebGate.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:ZarinpalWebGate.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:ZarinpalWebGate.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:ZarinpalWebGate.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:ZarinpalWebGate.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:ZarinpalWebGate.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ZarinpalWebGate.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ZarinpalWebGate.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
